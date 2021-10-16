@@ -1,0 +1,18 @@
+{
+    "name": "anthony/quest_composer_3",
+    "description": "composer 3",
+    "autoload": {
+        "psr-4": {
+            "Anthony\\QuestComposer3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anthony Laurent",
+            "email": "anthony061214@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
